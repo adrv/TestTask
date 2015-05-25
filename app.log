@@ -1,0 +1,284 @@
+[logger.js][info][Mon May 25 2015 16:48:23 GMT+0300 (MSK)] Listening on 3001 port
+[vk-api.js][info][Mon May 25 2015 16:54:09 GMT+0300 (MSK)] Listening on 3001 port
+[vk-api.js][info][Mon May 25 2015 16:54:32 GMT+0300 (MSK)] Listening on 3001 port
+[client.js][info][Mon May 25 2015 16:54:36 GMT+0300 (MSK)] Listening on 3000 port
+[vk-api.js][info][Mon May 25 2015 16:55:30 GMT+0300 (MSK)] Listening on 3001 port
+[client.js][info][Mon May 25 2015 16:55:33 GMT+0300 (MSK)] Listening on 3000 port
+[vk-api.js][info][Mon May 25 2015 16:56:27 GMT+0300 (MSK)] Listening on 3001 port
+[client.js][info][Mon May 25 2015 16:56:28 GMT+0300 (MSK)] Listening on 3000 port
+[vk-api.js][info][Mon May 25 2015 16:57:36 GMT+0300 (MSK)] Listening on 3001 port
+[client.js][info][Mon May 25 2015 16:57:37 GMT+0300 (MSK)] Listening on 3000 port
+[client.js][info][Mon May 25 2015 16:58:31 GMT+0300 (MSK)] Listening on 3000 port
+[client.js][info][Mon May 25 2015 17:05:55 GMT+0300 (MSK)] Listening on 3000 port
+[client.js][info][Mon May 25 2015 17:06:18 GMT+0300 (MSK)] Listening on 3000 port
+[client.js][info][Mon May 25 2015 17:06:21 GMT+0300 (MSK)] Finished
+[client.js][info][Mon May 25 2015 17:06:52 GMT+0300 (MSK)] Listening on 3000 port
+[vk-api.js][info][Mon May 25 2015 17:08:13 GMT+0300 (MSK)] Listening on 3001 port
+[client.js][info][Mon May 25 2015 17:08:20 GMT+0300 (MSK)] Listening on 3000 port
+[client.js][info][Mon May 25 2015 17:08:22 GMT+0300 (MSK)] Sending ids: [7992,5244,5621,8534,4959,4072,2257,336,5907,1171]
+[client.js][info][Mon May 25 2015 17:08:23 GMT+0300 (MSK)] Sending ids: [2530,3262,8821,131,8709,9903,7473,2319,6097,1446]
+[client.js][info][Mon May 25 2015 17:08:23 GMT+0300 (MSK)] Sending ids: [1413,2280,7830,7460,4741,8227,3143,7219,805,3912]
+[client.js][info][Mon May 25 2015 17:08:23 GMT+0300 (MSK)] Sending ids: [660,8587,3883,5853,2336,9563,9077,2188,5871,9240]
+[vk-api.js][info][Mon May 25 2015 17:08:23 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client.js][warn][Mon May 25 2015 17:08:23 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client.js][info][Mon May 25 2015 17:08:26 GMT+0300 (MSK)] Sending ids: [8997,1061,9131,4065,2373,6607,6966,6083,1800,2910]
+[client.js][info][Mon May 25 2015 17:08:26 GMT+0300 (MSK)] Sending ids: [1728,3189,243,918,4110,8190,7060,2444,5126,4343]
+[client.js][info][Mon May 25 2015 17:08:26 GMT+0300 (MSK)] Sending ids: [3062,1158,3584,6045,6586,425,9869,5021,893,3748]
+[vk-api.js][info][Mon May 25 2015 17:08:26 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client.js][warn][Mon May 25 2015 17:08:26 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client.js][info][Mon May 25 2015 17:08:29 GMT+0300 (MSK)] Sending ids: [6116,374,6831,3966,4953,2904,3866,6409,1037,3444]
+[client.js][info][Mon May 25 2015 17:08:29 GMT+0300 (MSK)] Sending ids: [9197,4825,607,6899,5950,437,3903,4416,3864,3372]
+[client.js][info][Mon May 25 2015 17:08:29 GMT+0300 (MSK)] Sending ids: [8360,4105,9888,5730,5055,363,5781,2035,6714,5850]
+[vk-api.js][info][Mon May 25 2015 17:08:29 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client.js][warn][Mon May 25 2015 17:08:29 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client.js][info][Mon May 25 2015 17:08:32 GMT+0300 (MSK)] Sending ids: [4090,7576,1124,5854,1084,7643,8746,6751,3628,8982]
+[client.js][info][Mon May 25 2015 17:08:32 GMT+0300 (MSK)] Sending ids: [4613,7684,2554,8408,9384,4590,8407,8799,6118,818]
+[client.js][info][Mon May 25 2015 17:08:32 GMT+0300 (MSK)] Sending ids: [2241,1087,9612,965,3865,1927,2106,7746,6669,4912]
+[vk-api.js][info][Mon May 25 2015 17:08:32 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client.js][warn][Mon May 25 2015 17:08:32 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client.js][info][Mon May 25 2015 17:08:35 GMT+0300 (MSK)] Sending ids: [4775,9294,8516,2548,5958,271,302,3576,818,2685]
+[client.js][info][Mon May 25 2015 17:08:35 GMT+0300 (MSK)] Sending ids: [4861,6816,4758,5907,2404,4286,2290,8231,530,7000]
+[client.js][info][Mon May 25 2015 17:08:35 GMT+0300 (MSK)] Sending ids: [1743,4788,6563,2991,822,7804,3053,7617,9718,7823]
+[vk-api.js][info][Mon May 25 2015 17:08:35 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client.js][warn][Mon May 25 2015 17:08:35 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client.js][info][Mon May 25 2015 17:08:38 GMT+0300 (MSK)] Sending ids: [4063,5761,2231,6806,8366,8227,9730,5476,5381,5488]
+[client.js][info][Mon May 25 2015 17:08:38 GMT+0300 (MSK)] Sending ids: [3287,1340,3956,2187,4926,3314,9126,9893,9142,7281]
+[client.js][info][Mon May 25 2015 17:08:38 GMT+0300 (MSK)] Sending ids: [7291,8008,4367,4407,2275,5018,223,7803,1733,3777]
+[vk-api.js][info][Mon May 25 2015 17:08:38 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client.js][warn][Mon May 25 2015 17:08:38 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client.js][info][Mon May 25 2015 17:08:41 GMT+0300 (MSK)] Sending ids: [3327,2535,299,8442,3320,5577,3832,8165,865,6012]
+[client.js][info][Mon May 25 2015 17:08:41 GMT+0300 (MSK)] Sending ids: [780,7940,8997,698,4276,3367,7616,8653,342,3643]
+[client.js][info][Mon May 25 2015 17:08:41 GMT+0300 (MSK)] Finished
+[client.js][info][Mon May 25 2015 17:09:31 GMT+0300 (MSK)] Listening on 3000 port
+[vk-api.js][info][Mon May 25 2015 17:09:32 GMT+0300 (MSK)] Listening on 3001 port
+[client.js][info][Mon May 25 2015 17:10:01 GMT+0300 (MSK)] Listening on 3000 port
+[vk-api.js][info][Mon May 25 2015 17:10:04 GMT+0300 (MSK)] Listening on 3001 port
+[client.js][info][Mon May 25 2015 17:10:06 GMT+0300 (MSK)] Sending ids: [7992,5244,5621,8534,4959,4072,2257,336,5907,1171]
+[client.js][info][Mon May 25 2015 17:10:06 GMT+0300 (MSK)] Sending ids: [2530,3262,8821,131,8709,9903,7473,2319,6097,1446]
+[client.js][info][Mon May 25 2015 17:10:06 GMT+0300 (MSK)] Sending ids: [1413,2280,7830,7460,4741,8227,3143,7219,805,3912]
+[client.js][info][Mon May 25 2015 17:10:06 GMT+0300 (MSK)] Sending ids: [660,8587,3883,5853,2336,9563,9077,2188,5871,9240]
+[vk-api.js][info][Mon May 25 2015 17:10:06 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client.js][warn][Mon May 25 2015 17:10:06 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client.js][info][Mon May 25 2015 17:10:09 GMT+0300 (MSK)] Sending ids: [8997,1061,9131,4065,2373,6607,6966,6083,1800,2910]
+[client.js][info][Mon May 25 2015 17:10:09 GMT+0300 (MSK)] Sending ids: [1728,3189,243,918,4110,8190,7060,2444,5126,4343]
+[client.js][info][Mon May 25 2015 17:10:09 GMT+0300 (MSK)] Sending ids: [3062,1158,3584,6045,6586,425,9869,5021,893,3748]
+[vk-api.js][info][Mon May 25 2015 17:10:09 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client.js][warn][Mon May 25 2015 17:10:09 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client.js][info][Mon May 25 2015 17:10:12 GMT+0300 (MSK)] Sending ids: [6116,374,6831,3966,4953,2904,3866,6409,1037,3444]
+[client.js][info][Mon May 25 2015 17:10:12 GMT+0300 (MSK)] Sending ids: [9197,4825,607,6899,5950,437,3903,4416,3864,3372]
+[client.js][info][Mon May 25 2015 17:10:12 GMT+0300 (MSK)] Sending ids: [8360,4105,9888,5730,5055,363,5781,2035,6714,5850]
+[vk-api.js][info][Mon May 25 2015 17:10:12 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client.js][warn][Mon May 25 2015 17:10:12 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client.js][info][Mon May 25 2015 17:10:15 GMT+0300 (MSK)] Sending ids: [4090,7576,1124,5854,1084,7643,8746,6751,3628,8982]
+[client.js][info][Mon May 25 2015 17:10:15 GMT+0300 (MSK)] Sending ids: [4613,7684,2554,8408,9384,4590,8407,8799,6118,818]
+[client.js][info][Mon May 25 2015 17:10:15 GMT+0300 (MSK)] Sending ids: [2241,1087,9612,965,3865,1927,2106,7746,6669,4912]
+[vk-api.js][info][Mon May 25 2015 17:10:15 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client.js][warn][Mon May 25 2015 17:10:15 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client.js][info][Mon May 25 2015 17:10:18 GMT+0300 (MSK)] Sending ids: [4775,9294,8516,2548,5958,271,302,3576,818,2685]
+[client.js][info][Mon May 25 2015 17:10:18 GMT+0300 (MSK)] Sending ids: [4861,6816,4758,5907,2404,4286,2290,8231,530,7000]
+[client.js][info][Mon May 25 2015 17:10:18 GMT+0300 (MSK)] Sending ids: [1743,4788,6563,2991,822,7804,3053,7617,9718,7823]
+[vk-api.js][info][Mon May 25 2015 17:10:18 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client.js][warn][Mon May 25 2015 17:10:18 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client.js][info][Mon May 25 2015 17:10:21 GMT+0300 (MSK)] Sending ids: [4063,5761,2231,6806,8366,8227,9730,5476,5381,5488]
+[client.js][info][Mon May 25 2015 17:10:21 GMT+0300 (MSK)] Sending ids: [3287,1340,3956,2187,4926,3314,9126,9893,9142,7281]
+[client.js][info][Mon May 25 2015 17:10:21 GMT+0300 (MSK)] Sending ids: [7291,8008,4367,4407,2275,5018,223,7803,1733,3777]
+[vk-api.js][info][Mon May 25 2015 17:10:21 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client.js][warn][Mon May 25 2015 17:10:21 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client.js][info][Mon May 25 2015 17:10:24 GMT+0300 (MSK)] Sending ids: [3327,2535,299,8442,3320,5577,3832,8165,865,6012]
+[client.js][info][Mon May 25 2015 17:10:25 GMT+0300 (MSK)] Sending ids: [780,7940,8997,698,4276,3367,7616,8653,342,3643]
+[client.js][info][Mon May 25 2015 17:10:25 GMT+0300 (MSK)] Finished
+[client][info][Mon May 25 2015 17:10:35 GMT+0300 (MSK)] Listening on 3000 port
+[vk-api][info][Mon May 25 2015 17:10:35 GMT+0300 (MSK)] Listening on 3001 port
+[client][info][Mon May 25 2015 17:10:38 GMT+0300 (MSK)] Sending ids: [7992,5244,5621,8534,4959,4072,2257,336,5907,1171]
+[client][info][Mon May 25 2015 17:10:38 GMT+0300 (MSK)] Sending ids: [2530,3262,8821,131,8709,9903,7473,2319,6097,1446]
+[client][info][Mon May 25 2015 17:10:38 GMT+0300 (MSK)] Sending ids: [1413,2280,7830,7460,4741,8227,3143,7219,805,3912]
+[client][info][Mon May 25 2015 17:10:38 GMT+0300 (MSK)] Sending ids: [660,8587,3883,5853,2336,9563,9077,2188,5871,9240]
+[vk-api][info][Mon May 25 2015 17:10:38 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:10:38 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:10:41 GMT+0300 (MSK)] Sending ids: [8997,1061,9131,4065,2373,6607,6966,6083,1800,2910]
+[client][info][Mon May 25 2015 17:10:41 GMT+0300 (MSK)] Sending ids: [1728,3189,243,918,4110,8190,7060,2444,5126,4343]
+[client][info][Mon May 25 2015 17:10:41 GMT+0300 (MSK)] Sending ids: [3062,1158,3584,6045,6586,425,9869,5021,893,3748]
+[vk-api][info][Mon May 25 2015 17:10:41 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:10:41 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:10:44 GMT+0300 (MSK)] Sending ids: [6116,374,6831,3966,4953,2904,3866,6409,1037,3444]
+[client][info][Mon May 25 2015 17:10:44 GMT+0300 (MSK)] Sending ids: [9197,4825,607,6899,5950,437,3903,4416,3864,3372]
+[client][info][Mon May 25 2015 17:10:44 GMT+0300 (MSK)] Sending ids: [8360,4105,9888,5730,5055,363,5781,2035,6714,5850]
+[vk-api][info][Mon May 25 2015 17:10:44 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:10:44 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:10:47 GMT+0300 (MSK)] Sending ids: [4090,7576,1124,5854,1084,7643,8746,6751,3628,8982]
+[client][info][Mon May 25 2015 17:10:47 GMT+0300 (MSK)] Sending ids: [4613,7684,2554,8408,9384,4590,8407,8799,6118,818]
+[client][info][Mon May 25 2015 17:10:47 GMT+0300 (MSK)] Sending ids: [2241,1087,9612,965,3865,1927,2106,7746,6669,4912]
+[vk-api][info][Mon May 25 2015 17:10:47 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:10:47 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][error][Mon May 25 2015 17:10:50 GMT+0300 (MSK)] Exiting: Fatal error! 
+Saving processing ids bunch to Redis: 2241,1087,9612,965,3865,1927,2106,7746,6669,4912
+[vk-api][info][Mon May 25 2015 17:13:27 GMT+0300 (MSK)] Listening on 3001 port
+[client][info][Mon May 25 2015 17:13:29 GMT+0300 (MSK)] Listening on 3000 port
+[client][info][Mon May 25 2015 17:13:32 GMT+0300 (MSK)] Message to send: Halo! Wie gehts?
+[client][info][Mon May 25 2015 17:13:32 GMT+0300 (MSK)] Sending ids: [4775,9294,8516,2548,5958,271,302,3576,2685,4861]
+[client][info][Mon May 25 2015 17:13:32 GMT+0300 (MSK)] Sending ids: [6816,4758,2404,4286,2290,8231,530,7000,1743,4788]
+[client][info][Mon May 25 2015 17:13:32 GMT+0300 (MSK)] Sending ids: [6563,2991,822,7804,3053,7617,9718,7823,4063,5761]
+[client][info][Mon May 25 2015 17:13:32 GMT+0300 (MSK)] Sending ids: [2231,6806,8366,9730,5476,5381,5488,3287,1340,3956]
+[vk-api][info][Mon May 25 2015 17:13:32 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:13:32 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:13:35 GMT+0300 (MSK)] Sending ids: [2187,4926,3314,9126,9893,9142,7281,7291,8008,4367]
+[client][info][Mon May 25 2015 17:13:35 GMT+0300 (MSK)] Sending ids: [4407,2275,5018,223,7803,1733,3777,3327,2535,299]
+[client][info][Mon May 25 2015 17:13:35 GMT+0300 (MSK)] Sending ids: [8442,3320,5577,3832,8165,865,6012,780,7940,698]
+[vk-api][info][Mon May 25 2015 17:13:35 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:13:35 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:13:38 GMT+0300 (MSK)] Sending ids: [4276,3367,7616,8653,342,3643]
+[client][info][Mon May 25 2015 17:13:38 GMT+0300 (MSK)] Finished
+[client][info][Mon May 25 2015 17:14:04 GMT+0300 (MSK)] Message to send: Halo, Aleksey! Wie gehts?
+[client][info][Mon May 25 2015 17:15:27 GMT+0300 (MSK)] Message to send: Halo! Wie gehts?
+[client][info][Mon May 25 2015 17:15:27 GMT+0300 (MSK)] Sending ids: [7992,5244,5621,8534,4959,4072,2257,336,5907,1171]
+[client][info][Mon May 25 2015 17:15:27 GMT+0300 (MSK)] Sending ids: [2530,3262,8821,131,8709,9903,7473,2319,6097,1446]
+[client][info][Mon May 25 2015 17:15:27 GMT+0300 (MSK)] Sending ids: [1413,2280,7830,7460,4741,8227,3143,7219,805,3912]
+[client][info][Mon May 25 2015 17:15:27 GMT+0300 (MSK)] Sending ids: [660,8587,3883,5853,2336,9563,9077,2188,5871,9240]
+[vk-api][info][Mon May 25 2015 17:15:27 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:15:27 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][error][Mon May 25 2015 17:15:30 GMT+0300 (MSK)] Exiting: Fatal error! 
+Saving processing ids bunch to Redis: 660,8587,3883,5853,2336,9563,9077,2188,5871,9240
+[client][info][Mon May 25 2015 17:15:37 GMT+0300 (MSK)] Listening on 3000 port
+[client][info][Mon May 25 2015 17:16:22 GMT+0300 (MSK)] Message to send: Halo! Wie gehts?
+[client][info][Mon May 25 2015 17:16:22 GMT+0300 (MSK)] Sending ids: [8997,1061,9131,4065,2373,6607,6966,6083,1800,2910]
+[client][info][Mon May 25 2015 17:16:22 GMT+0300 (MSK)] Sending ids: [1728,3189,243,918,4110,8190,7060,2444,5126,4343]
+[client][info][Mon May 25 2015 17:16:22 GMT+0300 (MSK)] Sending ids: [3062,1158,3584,6045,6586,425,9869,5021,893,3748]
+[client][info][Mon May 25 2015 17:16:22 GMT+0300 (MSK)] Sending ids: [6116,374,6831,3966,4953,2904,3866,6409,1037,3444]
+[vk-api][info][Mon May 25 2015 17:16:22 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:16:22 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:16:25 GMT+0300 (MSK)] Sending ids: [9197,4825,607,6899,5950,437,3903,4416,3864,3372]
+[client][info][Mon May 25 2015 17:16:25 GMT+0300 (MSK)] Sending ids: [8360,4105,9888,5730,5055,363,5781,2035,6714,5850]
+[client][info][Mon May 25 2015 17:16:25 GMT+0300 (MSK)] Sending ids: [4090,7576,1124,5854,1084,7643,8746,6751,3628,8982]
+[vk-api][info][Mon May 25 2015 17:16:25 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:16:25 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:16:28 GMT+0300 (MSK)] Sending ids: [4613,7684,2554,8408,9384,4590,8407,8799,6118,818]
+[client][info][Mon May 25 2015 17:16:28 GMT+0300 (MSK)] Sending ids: [2241,1087,9612,965,3865,1927,2106,7746,6669,4912]
+[client][info][Mon May 25 2015 17:16:28 GMT+0300 (MSK)] Sending ids: [4775,9294,8516,2548,5958,271,302,3576,818,2685]
+[vk-api][info][Mon May 25 2015 17:16:28 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:16:28 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:16:31 GMT+0300 (MSK)] Sending ids: [4861,6816,4758,2404,4286,2290,8231,530,7000,1743]
+[client][info][Mon May 25 2015 17:16:31 GMT+0300 (MSK)] Sending ids: [4788,6563,2991,822,7804,3053,7617,9718,7823,4063]
+[client][info][Mon May 25 2015 17:16:31 GMT+0300 (MSK)] Sending ids: [5761,2231,6806,8366,9730,5476,5381,5488,3287,1340]
+[vk-api][info][Mon May 25 2015 17:16:31 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:16:31 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:16:34 GMT+0300 (MSK)] Sending ids: [3956,2187,4926,3314,9126,9893,9142,7281,7291,8008]
+[client][info][Mon May 25 2015 17:16:34 GMT+0300 (MSK)] Sending ids: [4367,4407,2275,5018,223,7803,1733,3777,3327,2535]
+[client][info][Mon May 25 2015 17:16:34 GMT+0300 (MSK)] Sending ids: [299,8442,3320,5577,3832,8165,865,6012,780,7940]
+[vk-api][info][Mon May 25 2015 17:16:34 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:16:34 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:16:37 GMT+0300 (MSK)] Sending ids: [8997,698,4276,3367,7616,8653,342,3643]
+[client][info][Mon May 25 2015 17:16:37 GMT+0300 (MSK)] Finished
+[client][info][Mon May 25 2015 17:16:45 GMT+0300 (MSK)] Listening on 3000 port
+[client][info][Mon May 25 2015 17:17:29 GMT+0300 (MSK)] Listening on 3000 port
+[client][info][Mon May 25 2015 17:17:32 GMT+0300 (MSK)] Message to send: Halo! Wie gehts?
+[client][info][Mon May 25 2015 17:17:32 GMT+0300 (MSK)] Sending ids: [7992,5244,5621,8534,4959,4072,2257,336,5907,1171]
+[client][info][Mon May 25 2015 17:17:32 GMT+0300 (MSK)] Sending ids: [2530,3262,8821,131,8709,9903,7473,2319,6097,1446]
+[client][info][Mon May 25 2015 17:17:32 GMT+0300 (MSK)] Sending ids: [1413,2280,7830,7460,4741,8227,3143,7219,805,3912]
+[client][info][Mon May 25 2015 17:17:32 GMT+0300 (MSK)] Sending ids: [660,8587,3883,5853,2336,9563,9077,2188,5871,9240]
+[vk-api][info][Mon May 25 2015 17:17:32 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:17:32 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:17:43 GMT+0300 (MSK)] Listening on 3000 port
+[client][info][Mon May 25 2015 17:17:44 GMT+0300 (MSK)] Message to send: Halo, Aleksey! Wie gehts?
+[client][info][Mon May 25 2015 17:18:37 GMT+0300 (MSK)] Listening on 3000 port
+[client][info][Mon May 25 2015 17:18:51 GMT+0300 (MSK)] Message to send: Halo, Aleksey! Wie gehts?
+[client][info][Mon May 25 2015 17:21:14 GMT+0300 (MSK)] Listening on 3000 port
+[client][info][Mon May 25 2015 17:21:31 GMT+0300 (MSK)] Message to send: Halo, B! Wie gehts?
+[client][info][Mon May 25 2015 17:21:50 GMT+0300 (MSK)] Listening on 3000 port
+[client][info][Mon May 25 2015 17:22:04 GMT+0300 (MSK)] Message to send: Halo, B! Wie gehts?
+[client][info][Mon May 25 2015 17:23:12 GMT+0300 (MSK)] Listening on 3000 port
+[client][info][Mon May 25 2015 17:23:18 GMT+0300 (MSK)] Message to send: Halo, B! Wie gehts?
+[client][info][Mon May 25 2015 17:25:36 GMT+0300 (MSK)] Listening on 3000 port
+[client][info][Mon May 25 2015 17:25:42 GMT+0300 (MSK)] Message to send: Halo, B! Wie gehts?
+[client][info][Mon May 25 2015 17:25:42 GMT+0300 (MSK)] Sending ids: [9294,8516,2548,5958,271,302,3576,818,2685,4861]
+[client][info][Mon May 25 2015 17:25:42 GMT+0300 (MSK)] Sending ids: [6816,4758,5907,2404,4286,2290,8231,530,7000,1743]
+[client][info][Mon May 25 2015 17:25:42 GMT+0300 (MSK)] Sending ids: [4788,6563,2991,822,7804,3053,7643,8746,6751,3628]
+[client][info][Mon May 25 2015 17:25:42 GMT+0300 (MSK)] Sending ids: [8982,4613,7684,2554,8408,9384,4590,8407,8799,6118]
+[vk-api][info][Mon May 25 2015 17:25:42 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:25:42 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:25:45 GMT+0300 (MSK)] Sending ids: [818,2241,1087,9612,965,3865,1927,2106,7746,6669]
+[client][info][Mon May 25 2015 17:25:45 GMT+0300 (MSK)] Sending ids: [4912,4775,2275,5018,223,7803,1733,3777,3327,2535]
+[client][info][Mon May 25 2015 17:25:45 GMT+0300 (MSK)] Sending ids: [299,8442,3320,5577,3832,8165,865,6012,780,7940]
+[vk-api][info][Mon May 25 2015 17:25:45 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:25:45 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:25:48 GMT+0300 (MSK)] Sending ids: [8997,698,4276,3367,7616,8653,342,3643,7617,9718]
+[client][info][Mon May 25 2015 17:25:48 GMT+0300 (MSK)] Sending ids: [7823,4063,5761,2231,6806,8366,8227,9730,5476,5381]
+[client][info][Mon May 25 2015 17:25:48 GMT+0300 (MSK)] Sending ids: [5488,3287,1340,3956,2187,4926,3314,9126,9893,9142]
+[vk-api][info][Mon May 25 2015 17:25:48 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:25:48 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:25:51 GMT+0300 (MSK)] Sending ids: [7281,7291,8008,4367,4407,7219,805,3912,660,8587]
+[client][info][Mon May 25 2015 17:25:51 GMT+0300 (MSK)] Sending ids: [3883,5853,2336,9563,9077,2188,5871,9240,8997,1061]
+[client][info][Mon May 25 2015 17:25:51 GMT+0300 (MSK)] Sending ids: [9131,4065,2373,6607,6966,6083,1800,2910,1728,3189]
+[vk-api][info][Mon May 25 2015 17:25:51 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:25:51 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:25:54 GMT+0300 (MSK)] Sending ids: [243,5244,5621,8534,4959,4072,2257,336,5907,1171]
+[client][info][Mon May 25 2015 17:25:54 GMT+0300 (MSK)] Sending ids: [2530,3262,8821,131,8709,9903,7473,2319,6097,1446]
+[client][info][Mon May 25 2015 17:25:54 GMT+0300 (MSK)] Sending ids: [1413,2280,7830,7460,4741,8227,3143,3444,9197,4825]
+[vk-api][info][Mon May 25 2015 17:25:54 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:25:54 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][info][Mon May 25 2015 17:25:57 GMT+0300 (MSK)] Sending ids: [607,6899,5950,437,3903,4416,3864,3372,8360,4105]
+[client][info][Mon May 25 2015 17:25:57 GMT+0300 (MSK)] Sending ids: [9888,5730,5055,363,5781,2035,6714,5850,4090,7576]
+[client][info][Mon May 25 2015 17:25:57 GMT+0300 (MSK)] Sending ids: [1124,5854,1084,918,4110,8190,7060,2444,5126,4343]
+[vk-api][info][Mon May 25 2015 17:25:57 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[client][warn][Mon May 25 2015 17:25:57 GMT+0300 (MSK)] Requests are too frequent. Delaying.
+[client][error][Mon May 25 2015 17:26:00 GMT+0300 (MSK)] Exiting: Fatal error! 
+Saving processing ids bunch to Redis: 1124,5854,1084,918,4110,8190,7060,2444,5126,4343
+[Mon May 25 2015 17:42:54 GMT+0300 (MSK)][client][info] Listening on 3000 port
+[Mon May 25 2015 17:42:56 GMT+0300 (MSK)][client][info] Message to send: Halo, B! Wie gehts?
+[Mon May 25 2015 17:42:56 GMT+0300 (MSK)][client][info] Sending ids: [707,131,524,923,497,340,277,455,500,512]
+[Mon May 25 2015 17:42:56 GMT+0300 (MSK)][client][info] Sending ids: [888,566,530,420,470,660,522,678,167,471]
+[Mon May 25 2015 17:42:56 GMT+0300 (MSK)][client][info] Sending ids: [552,192,583,290,989,604,929,490,285,567]
+[Mon May 25 2015 17:42:56 GMT+0300 (MSK)][client][info] Sending ids: [62,849,878,452,451,183,851,488,818,659]
+[vk-api][info][Mon May 25 2015 17:42:56 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[Mon May 25 2015 17:42:56 GMT+0300 (MSK)][client][warn] Requests are too frequent. Delaying.
+[Mon May 25 2015 17:42:59 GMT+0300 (MSK)][client][info] Sending ids: [44,173,859,860,514,644,460,585,865,453]
+[Mon May 25 2015 17:42:59 GMT+0300 (MSK)][client][info] Sending ids: [929,996,493,132,362,431,100,872,468,994]
+[Mon May 25 2015 17:42:59 GMT+0300 (MSK)][client][info] Sending ids: [697,852,190,616,941,682,686,55,846,257]
+[vk-api][info][Mon May 25 2015 17:42:59 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[Mon May 25 2015 17:42:59 GMT+0300 (MSK)][client][warn] Requests are too frequent. Delaying.
+[Mon May 25 2015 17:43:02 GMT+0300 (MSK)][client][info] Sending ids: [620,49,948,193,48,254,503,287,270,569]
+[Mon May 25 2015 17:43:02 GMT+0300 (MSK)][client][info] Sending ids: [606,600,83,419,127,248,540,51,835,775]
+[Mon May 25 2015 17:43:02 GMT+0300 (MSK)][client][info] Sending ids: [63,246,965,468,495,557,735,912,554,985]
+[vk-api][info][Mon May 25 2015 17:43:02 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[Mon May 25 2015 17:43:02 GMT+0300 (MSK)][client][warn] Requests are too frequent. Delaying.
+[Mon May 25 2015 17:43:05 GMT+0300 (MSK)][client][info] Sending ids: [635,263,47,688,564,920,933,994,792,118]
+[Mon May 25 2015 17:43:05 GMT+0300 (MSK)][client][info] Sending ids: [625,436,182,249,184,337,931,664,307,934]
+[Mon May 25 2015 17:43:05 GMT+0300 (MSK)][client][info] Sending ids: [579,189,937,762,69,375,188,88,7,385]
+[vk-api][info][Mon May 25 2015 17:43:05 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[Mon May 25 2015 17:43:05 GMT+0300 (MSK)][client][warn] Requests are too frequent. Delaying.
+[Mon May 25 2015 17:43:09 GMT+0300 (MSK)][client][info] Sending ids: [765,111,724,760,3,758,288,92,645,856]
+[Mon May 25 2015 17:43:09 GMT+0300 (MSK)][client][info] Sending ids: [308,457,190,798,400,425,669,343,499,402]
+[Mon May 25 2015 17:43:09 GMT+0300 (MSK)][client][info] Sending ids: [956,442,463,788,789,731,732,60,733,394]
+[vk-api][info][Mon May 25 2015 17:43:09 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[Mon May 25 2015 17:43:09 GMT+0300 (MSK)][client][warn] Requests are too frequent. Delaying.
+[Mon May 25 2015 17:43:12 GMT+0300 (MSK)][client][info] Sending ids: [198,359,645,785,336,860,783,276,27,743]
+[Mon May 25 2015 17:43:12 GMT+0300 (MSK)][client][info] Sending ids: [346,75,791,77,641,316,388,601,774,232]
+[Mon May 25 2015 17:43:12 GMT+0300 (MSK)][client][info] Sending ids: [386,630,792,319,793,396,290,476,313,9]
+[vk-api][info][Mon May 25 2015 17:43:12 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[Mon May 25 2015 17:43:12 GMT+0300 (MSK)][client][warn] Requests are too frequent. Delaying.
+[Mon May 25 2015 17:43:15 GMT+0300 (MSK)][client][info] Sending ids: [824,129,838,423,267,425,131,321,39,59]
+[Mon May 25 2015 17:43:15 GMT+0300 (MSK)][client][info] Sending ids: [282,904,327,137,434,839,435,679,595,130]
+[Mon May 25 2015 17:43:15 GMT+0300 (MSK)][client][info] Sending ids: [649,3,141,669,557,120,655,289,371,632]
+[vk-api][info][Mon May 25 2015 17:43:15 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[Mon May 25 2015 17:43:15 GMT+0300 (MSK)][client][warn] Requests are too frequent. Delaying.
+[Mon May 25 2015 17:43:18 GMT+0300 (MSK)][client][info] Sending ids: [741,793,106,803,658,187,395,759,435,654]
+[Mon May 25 2015 17:43:18 GMT+0300 (MSK)][client][info] Sending ids: [406,803,35,402,114,471,167,117,347,289]
+[Mon May 25 2015 17:43:18 GMT+0300 (MSK)][client][info] Sending ids: [570,713,315,123,413,165,654,901,719,5730]
+[vk-api][info][Mon May 25 2015 17:43:18 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[Mon May 25 2015 17:43:18 GMT+0300 (MSK)][client][warn] Requests are too frequent. Delaying.
+[Mon May 25 2015 17:43:21 GMT+0300 (MSK)][client][info] Sending ids: [9888,4105,8360,3372,3864,4416,3903,437,5950,6899]
+[Mon May 25 2015 17:43:21 GMT+0300 (MSK)][client][info] Sending ids: [607,4825,9197,3444,1037,6409,3866,2904,4953,3966]
+[Mon May 25 2015 17:43:21 GMT+0300 (MSK)][client][info] Sending ids: [6831,374,6116,3748,893,5021,9869,425,6586,6045]
+[vk-api][info][Mon May 25 2015 17:43:21 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[Mon May 25 2015 17:43:21 GMT+0300 (MSK)][client][warn] Requests are too frequent. Delaying.
+[Mon May 25 2015 17:43:24 GMT+0300 (MSK)][client][info] Sending ids: [1927,3865,965,9612,1087,2241,818,6118,8799,8407]
+[Mon May 25 2015 17:43:24 GMT+0300 (MSK)][client][info] Sending ids: [4590,9384,8408,2554,7684,4613,8982,3628,6751,8746]
+[Mon May 25 2015 17:43:24 GMT+0300 (MSK)][client][info] Sending ids: [7643,1084,5854,1124,7576,4090,5850,6714,2035,5781]
+[vk-api][info][Mon May 25 2015 17:43:24 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[Mon May 25 2015 17:43:24 GMT+0300 (MSK)][client][warn] Requests are too frequent. Delaying.
+[Mon May 25 2015 17:43:27 GMT+0300 (MSK)][client][info] Sending ids: [363,5055,660,3912,805,7219,3143,8227,4741,7460]
+[Mon May 25 2015 17:43:27 GMT+0300 (MSK)][client][info] Sending ids: [7830,2280,1413,1446,6097,2319,7473,9903,8709,131]
+[Mon May 25 2015 17:43:27 GMT+0300 (MSK)][client][info] Sending ids: [8821,3262,2530,1171,5907,336,2257,4072,4959,8534]
+[vk-api][info][Mon May 25 2015 17:43:27 GMT+0300 (MSK)] Too many requests from ::ffff:127.0.0.1
+[Mon May 25 2015 17:43:27 GMT+0300 (MSK)][client][warn] Requests are too frequent. Delaying.
+[Mon May 25 2015 17:43:30 GMT+0300 (MSK)][client][error] Exiting: Fatal error! 
+Saving processing ids bunch to Redis: 8821,3262,2530,1171,5907,336,2257,4072,4959,8534
