@@ -2,7 +2,7 @@
 
 ###Подготовка
 MongoDB и Redis запущены на стандартных портах
-
+* `npm install`
 * Популяция Mongo данными - `node scripts/populate_data.js`
 * Запуск сервера VK-api - `node scripts/vk-api.js`, default port - 3001
 * Запуск клиента VK-api - `node scripts/client.js`, default port - 3000
